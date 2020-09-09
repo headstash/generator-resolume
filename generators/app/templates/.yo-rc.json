@@ -1,0 +1,5 @@
+{
+  "generator-resolume": {
+    "effectsDir": "<%= effectsDir %>"
+  }
+}
